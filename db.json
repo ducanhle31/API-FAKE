@@ -2,99 +2,672 @@
   "products": [
     {
       "id": 1,
-      "name": "Red T-Shirt",
+      "name": "Đỗ xanh",
       "description": "A comfortable and stylish red t-shirt.",
-      "price": 19.99,
+      "type": "new",
+      "count": "hoaqua",
+      "star": 4,
+      "del": 30000,
+      "price": 25000,
       "quantity": 10,
       "image": "/public/images/1.webp"
     },
     {
       "id": 2,
-      "name": "Blue Hoodie",
-      "description": "A warm and cozy blue hoodie for chilly days.",
-      "price": 39.99,
-      "quantity": 5,
+      "name": "Hạnh nhân",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "hat",
+      "star": 4.5,
+      "del": 300000,
+      "price": 250000,
+      "quantity": 10,
       "image": "/public/images/2.webp"
     },
     {
       "id": 3,
-      "name": "Leather Jacket",
-      "description": "A sleek and stylish black leather jacket.",
-      "price": 99.99,
-      "quantity": 2,
-      "image": "/images/3.jpg"
+      "name": "Hạt điều",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "hat",
+      "star": 5,
+      "del": 400000,
+      "price": 350000,
+      "quantity": 5,
+      "image": "/public/images/3.webp"
     },
     {
       "id": 4,
-      "name": "Denim Shorts",
-      "description": "Comfortable and stylish denim shorts for warm weather.",
-      "price": 29.99,
-      "quantity": 8,
-      "image": "/images/4.png"
+      "name": "Hạt giẻ cười",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "old",
+      "count": "hat",
+      "star": 4,
+      "del": 300000,
+      "price": 270000,
+      "quantity": 10,
+      "image": "/public/images/4.webp"
     },
     {
       "id": 5,
-      "name": "Black Dress",
-      "description": "A classic black dress for any occasion.",
-      "price": 59.99,
-      "quantity": 4,
-      "image": "/images/5.jpg"
+      "name": "Hạt óc chó",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "hat",
+      "star": 5,
+      "del": 400000,
+      "price": 350000,
+      "quantity": 10,
+      "image": "/public/images/5.webp"
     },
     {
       "id": 6,
-      "name": "White Sneakers",
-      "description": "A pair of stylish white sneakers for casual wear.",
-      "price": 49.99,
-      "quantity": 12,
-      "image": "/images/6.jpg"
+      "name": "Đỗ xanh",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "hat",
+      "star": 4.5,
+      "del": 30000,
+      "price": 25000,
+      "quantity": 10,
+      "image": "/public/images/6.webp"
     },
     {
       "id": 7,
-      "name": "Gray Sweatpants",
-      "description": "Comfortable and stylish gray sweatpants for lounging.",
-      "price": 24.99,
-      "quantity": 6,
-      "image": "/images/7.jpg"
+      "name": "Lúa mạch",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "old",
+      "count": "hat",
+      "star": 4,
+      "del": 500000,
+      "price": 45000,
+      "quantity": 15,
+      "image": "/public/images/7.webp"
     },
     {
       "id": 8,
-      "name": "Brown Leather Boots",
-      "description": "A pair of rugged brown leather boots for outdoor adventures.",
-      "price": 129.99,
-      "quantity": 3,
-      "image": "/images/8.jpg"
+      "name": "Phi lê cá tầm",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "haisan",
+      "star": 5,
+      "del": 400000,
+      "price": 250000,
+      "quantity": 15,
+      "image": "/public/images/8.webp"
     },
     {
       "id": 9,
-      "name": "Yellow Raincoat",
-      "description": "A bright yellow raincoat for rainy days.",
-      "price": 59.99,
-      "quantity": 7,
-      "image": "/images/9.jpg"
+      "name": "Cá hồi ",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "haisan",
+      "star": 4.5,
+      "del": 30000,
+      "price": 25000,
+      "quantity": 10,
+      "image": "/public/images/9.webp"
     },
     {
       "id": 10,
-      "name": "Green Skirt",
-      "description": "A flowy green skirt for a bohemian look.",
-      "price": 39.99,
-      "quantity": 9,
-      "image": "/images/10.jpg"
+      "name": "Cua biển",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "haisan",
+      "star": 4.5,
+      "del": 300000,
+      "price": 250000,
+      "quantity": 10,
+      "image": "/public/images/10.webp"
     },
     {
       "id": 11,
-      "name": "Striped Polo",
-      "description": "A classic striped polo shirt for a preppy look.",
-      "price": 29.99,
-      "quantity": 11,
-      "image": "/images/11.jpg"
+      "name": "Mực",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "haisan",
+      "star": 4,
+      "del": 200000,
+      "price": 150000,
+      "quantity": 10,
+      "image": "/public/images/11.webp"
     },
     {
       "id": 12,
-      "name": "Purple Sunglasses",
-      "description": "Stylish purple sunglasses to complete any outfit.",
-      "price": 19.99,
+      "name": "Bạch tuộc",
+      "description": "A comfortable and stylish red t-shirt.",
+      "count": "haisan",
+      "star": 4,
+      "del": 400000,
+      "price": 320000,
+      "quantity": 10,
+      "image": "/public/images/12.webp"
+    },
+    {
+      "id": 13,
+      "name": "Tôm thẻ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "count": "haisan",
+      "star": 5,
+      "del": 200000,
+      "price": 120000,
       "quantity": 15,
-      "image": "/images/12.jpg"
+      "image": "/public/images/13.webp"
+    },
+    {
+      "id": 14,
+      "name": "Bắp bò Mỹ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "thit",
+      "star": 5,
+      "del": 400000,
+      "price": 320000,
+      "quantity": 10,
+      "image": "/public/images/14.webp"
+    },
+    {
+      "id": 15,
+      "name": "Chuối ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "count": "hoaqua",
+      "star": 4,
+      "del": 40000,
+      "price": 32000,
+      "quantity": 10,
+      "image": "/public/images/15.webp"
+    },
+
+    {
+      "id": 16,
+      "name": "Cam organic ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "hoaqua",
+      "star": 5,
+      "del": 80000,
+      "price": 62000,
+      "quantity": 10,
+      "image": "/public/images/16.webp"
+    },
+    {
+      "id": 17,
+      "name": "Chery nhập khẩu ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "count": "hoaqua",
+      "star": 4,
+      "del": 120000,
+      "price": 92000,
+      "quantity": 10,
+      "image": "/public/images/17.webp"
+    },
+    {
+      "id": 18,
+      "name": "Chôm chôm ",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "hoaqua",
+      "star": 5,
+      "del": 70000,
+      "price": 60000,
+      "quantity": 5,
+      "image": "/public/images/18.webp"
+    },
+    {
+      "id": 19,
+      "name": "Đào mỹ  ",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "hoaqua",
+      "star": 5,
+      "del": 210000,
+      "price": 180000,
+      "quantity": 15,
+      "image": "/public/images/19.webp"
+    },
+    {
+      "id": 20,
+      "name": "Dâu tây ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "hoaqua",
+      "star": 5,
+      "del": 300000,
+      "price": 250000,
+      "quantity": 5,
+      "image": "/public/images/20.webp"
+    },
+    {
+      "id": 21,
+      "name": "Dưa lưới ",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "hoaqua",
+      "star": 4,
+      "del": 90000,
+      "price": 70000,
+      "quantity": 10,
+      "image": "/public/images/21.webp"
+    },
+    {
+      "id": 22,
+      "name": "Dứa vàng ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "hoaqua",
+      "star": 4.5,
+      "del": 90000,
+      "price": 60000,
+      "quantity": 10,
+      "image": "/public/images/22.webp"
+    },
+    {
+      "id": 23,
+      "name": "Lê xanh Mỹ ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "hoaqua",
+      "star": 4,
+      "del": 120000,
+      "price": 80000,
+      "quantity": 10,
+      "image": "/public/images/23.webp"
+    },
+    {
+      "id": 24,
+      "name": "Nho đen ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "hoaqua",
+      "star": 4.5,
+      "del": 220000,
+      "price": 170000,
+      "quantity": 10,
+      "image": "/public/images/24.webp"
+    },
+    {
+      "id": 25,
+      "name": "Lựu  ",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "hoaqua",
+      "star": 5,
+      "del": 160000,
+      "price": 130000,
+      "quantity": 10,
+      "image": "/public/images/25.webp"
+    },
+    {
+      "id": 26,
+      "name": "Táo xanh ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "hoaqua",
+      "star": 4.5,
+      "del": 240000,
+      "price": 220000,
+      "quantity": 5,
+      "image": "/public/images/26.webp"
+    },
+    {
+      "id": 27,
+      "name": "Vải thiều",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "hoaqua",
+      "star": 5,
+      "del": 180000,
+      "price": 160000,
+      "quantity": 5,
+      "image": "/public/images/27.webp"
+    },
+    {
+      "id": 28,
+      "name": "Súp lơ xanh ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "raucu",
+      "star": 4.5,
+      "del": 80000,
+      "price": 60000,
+      "quantity": 10,
+      "image": "/public/images/28.webp"
+    },
+    {
+      "id": 29,
+      "name": "Khoai tây",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "raucu",
+      "star": 4.5,
+      "del": 70000,
+      "price": 50000,
+      "quantity": 10,
+      "image": "/public/images/29.webp"
+    },
+    {
+      "id": 30,
+      "name": "Cà chua",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "raucu",
+      "star": 4.5,
+      "del": 50000,
+      "price": 30000,
+      "quantity": 5,
+      "image": "/public/images/30.webp"
+    },
+    {
+      "id": 31,
+      "name": "Nấm linh chi",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "raucu",
+      "star": 5,
+      "del": 700000,
+      "price": 500000,
+      "quantity": 10,
+      "image": "/public/images/31.webp"
+    },
+    {
+      "id": 32,
+      "name": "Chanh",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "raucu",
+      "star": 4.5,
+      "del": 60000,
+      "price": 50000,
+      "quantity": 5,
+      "image": "/public/images/32.webp"
+    },
+    {
+      "id": 33,
+      "name": "Tỏi",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "raucu",
+      "star": 5,
+      "del": 40000,
+      "price": 35000,
+      "quantity": 10,
+      "image": "/public/images/33.webp"
+    },
+    {
+      "id": 34,
+      "name": "Gừng",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "raucu",
+      "star": 5,
+      "del": 40000,
+      "price": 35000,
+      "quantity": 10,
+      "image": "/public/images/34.webp"
+    },
+    {
+      "id": 35,
+      "name": "Hành tây",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "raucu",
+      "star": 5,
+      "del": 40000,
+      "price": 35000,
+      "quantity": 10,
+      "image": "/public/images/35.webp"
+    },
+    {
+      "id": 36,
+      "name": "Ớt sừng",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "raucu",
+      "star": 5,
+      "del": 30000,
+      "price": 15000,
+      "quantity": 10,
+      "image": "/public/images/36.webp"
+    },
+    {
+      "id": 37,
+      "name": "Rau cải",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "raucu",
+      "star": 4.5,
+      "del": 40000,
+      "price": 25000,
+      "quantity": 10,
+      "image": "/public/images/37.webp"
+    },
+    {
+      "id": 38,
+      "name": "Súp lơ trắng",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "raucu",
+      "star": 4,
+      "del": 50000,
+      "price": 35000,
+      "quantity": 10,
+      "image": "/public/images/38.webp"
+    },
+    {
+      "id": 40,
+      "name": "Thịt bò kobe",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "thit",
+      "star": 5,
+      "del": 400000,
+      "price": 350000,
+      "quantity": 10,
+      "image": "/public/images/40.webp"
+    },
+    {
+      "id": 41,
+      "name": "Ba chỉ bò mỹ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "thit",
+      "star": 5,
+      "del": 40000,
+      "price": 35000,
+      "quantity": 10,
+      "image": "/public/images/41.webp"
+    },
+    {
+      "id": 42,
+      "name": "Gà organic",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "thit",
+      "star": 4.5,
+      "del": 220000,
+      "price": 170000,
+      "quantity": 10,
+      "image": "/public/images/42.webp"
+    },
+    {
+      "id": 43,
+      "name": "Sườn lợn",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "thit",
+      "star": 5,
+      "del": 240000,
+      "price": 200000,
+      "quantity": 10,
+      "image": "/public/images/43.webp"
+    },
+    {
+      "id": 44,
+      "name": "Thịt bò Canada ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "thit",
+      "star": 5,
+      "del": 500000,
+      "price": 350000,
+      "quantity": 10,
+      "image": "/public/images/44.webp"
+    },
+    {
+      "id": 45,
+      "name": "Ba chỉ bò ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "thit",
+      "star": 4,
+      "del": 400000,
+      "price": 350000,
+      "quantity": 10,
+      "image": "/public/images/45.webp"
+    },
+    {
+      "id": 46,
+      "name": "Thịt bò thăn",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "thit",
+      "star": 4.5,
+      "del": 40000,
+      "price": 35000,
+      "quantity": 10,
+      "image": "/public/images/46.webp"
+    },
+    {
+      "id": 47,
+      "name": "Thịt lợn nạc vai",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "thit",
+      "star": 4,
+      "del": 300000,
+      "price": 250000,
+      "quantity": 10,
+      "image": "/public/images/47.webp"
+    },
+    {
+      "id": 48,
+      "name": "Bắp hoa bò",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "thit",
+      "star": 4,
+      "del": 400000,
+      "price": 250000,
+      "quantity": 10,
+      "image": "/public/images/48.webp"
+    },
+    {
+      "id": 49,
+      "name": "Táo đỏ",
+      "description": "A comfortable and stylish red t-shirt.",
+      "type": "new",
+      "count": "hoaqua",
+      "star": 4,
+      "del": 350000,
+      "price": 250000,
+      "quantity": 10,
+      "image": "/public/images/49.webp"
+    },
+    {
+      "id": 50,
+      "name": "Cải bắp",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "raucu",
+      "star": 4.5,
+      "del": 35000,
+      "price": 25000,
+      "quantity": 10,
+      "image": "/public/images/50.webp"
+    },
+    {
+      "id": 51,
+      "name": "Cà rốt",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "raucu",
+      "star": 4.5,
+      "del": 45000,
+      "price": 35000,
+      "quantity": 10,
+      "image": "/public/images/51.webp"
+    },
+    {
+      "id": 53,
+      "name": "Cá biển",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "haisan",
+      "star": 4.5,
+      "del": 55000,
+      "price": 35000,
+      "quantity": 5,
+      "image": "/public/images/53.webp"
+    },
+    {
+      "id": 54,
+      "name": "Ngô ngọt",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "raucu",
+      "star": 5,
+      "del": 35000,
+      "price": 25000,
+      "quantity": 10,
+      "image": "/public/images/54.webp"
+    },
+    {
+      "id": 55,
+      "name": "Bí đao",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "raucu",
+      "star": 4.5,
+      "del": 35000,
+      "price": 15000,
+      "quantity": 10,
+      "image": "/public/images/55.webp"
+    },
+    {
+      "id": 56,
+      "name": "Đùi gà",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "thit",
+      "star": 4,
+      "del": 85000,
+      "price": 65000,
+      "quantity": 5,
+      "image": "/public/images/56.webp"
+    },
+    {
+      "id": 57,
+      "name": "Nấm rơm",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "raucu",
+      "star": 4.5,
+      "del": 95000,
+      "price": 65000,
+      "quantity": 15,
+      "image": "/public/images/57.webp"
+    },
+    {
+      "id": 59,
+      "name": "Cá ngừ",
+      "description": "A comfortable and stylish red t-shirt.",
+
+      "count": "haisan",
+      "star": 5,
+      "del": 450000,
+      "price": 350000,
+      "quantity": 10,
+      "image": "/public/images/59.webp"
     }
   ],
   "comments": [
