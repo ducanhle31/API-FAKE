@@ -6,7 +6,7 @@
       "description": "A comfortable and stylish red t-shirt.",
       "price": 19.99,
       "quantity": 10,
-      "image": "/images/1.jpg"
+      "image": "/public/images/1.webp"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "description": "A warm and cozy blue hoodie for chilly days.",
       "price": 39.99,
       "quantity": 5,
-      "image": "/images/2.jpg"
+      "image": "/public/images/2.webp"
     },
     {
       "id": 3,
