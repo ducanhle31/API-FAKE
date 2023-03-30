@@ -70,7 +70,7 @@
       "del": 30000,
       "price": 25000,
       "quantity": 10,
-      "image": "/public/images/6.webp"
+      "image": "/public/images/6.jpg"
     },
     {
       "id": 7,
@@ -82,7 +82,7 @@
       "del": 500000,
       "price": 45000,
       "quantity": 15,
-      "image": "/public/images/7.webp"
+      "image": "/public/images/7.png"
     },
     {
       "id": 8,
@@ -141,7 +141,7 @@
       "del": 400000,
       "price": 320000,
       "quantity": 10,
-      "image": "/public/images/12.webp"
+      "image": "/public/images/12.jpg"
     },
     {
       "id": 13,
@@ -152,7 +152,7 @@
       "del": 200000,
       "price": 120000,
       "quantity": 15,
-      "image": "/public/images/13.webp"
+      "image": "/public/images/12.webp"
     },
     {
       "id": 14,
@@ -164,7 +164,7 @@
       "del": 400000,
       "price": 320000,
       "quantity": 10,
-      "image": "/public/images/14.webp"
+      "image": "/public/images/14.jpg"
     },
     {
       "id": 15,
@@ -331,7 +331,7 @@
       "del": 80000,
       "price": 60000,
       "quantity": 10,
-      "image": "/public/images/28.webp"
+      "image": "/public/images/28.png"
     },
     {
       "id": 29,
@@ -343,7 +343,7 @@
       "del": 70000,
       "price": 50000,
       "quantity": 10,
-      "image": "/public/images/29.webp"
+      "image": "/public/images/29.png"
     },
     {
       "id": 30,
@@ -391,7 +391,7 @@
       "del": 40000,
       "price": 35000,
       "quantity": 10,
-      "image": "/public/images/33.webp"
+      "image": "/public/images/33.png"
     },
     {
       "id": 34,
@@ -403,7 +403,7 @@
       "del": 40000,
       "price": 35000,
       "quantity": 10,
-      "image": "/public/images/34.webp"
+      "image": "/public/images/34.png"
     },
     {
       "id": 35,
@@ -427,7 +427,7 @@
       "del": 30000,
       "price": 15000,
       "quantity": 10,
-      "image": "/public/images/36.webp"
+      "image": "/public/images/36.png"
     },
     {
       "id": 37,
@@ -487,7 +487,7 @@
       "del": 220000,
       "price": 170000,
       "quantity": 10,
-      "image": "/public/images/42.webp"
+      "image": "/public/images/42.png"
     },
     {
       "id": 43,
@@ -559,7 +559,7 @@
       "del": 400000,
       "price": 250000,
       "quantity": 10,
-      "image": "/public/images/48.webp"
+      "image": "/public/images/48.png"
     },
     {
       "id": 49,
@@ -571,7 +571,7 @@
       "del": 350000,
       "price": 250000,
       "quantity": 10,
-      "image": "/public/images/49.webp"
+      "image": "/public/images/49.png"
     },
     {
       "id": 50,
@@ -583,7 +583,7 @@
       "del": 35000,
       "price": 25000,
       "quantity": 10,
-      "image": "/public/images/50.webp"
+      "image": "/public/images/50.png"
     },
     {
       "id": 51,
@@ -595,7 +595,7 @@
       "del": 45000,
       "price": 35000,
       "quantity": 10,
-      "image": "/public/images/51.webp"
+      "image": "/public/images/51.png"
     },
     {
       "id": 53,
@@ -607,7 +607,7 @@
       "del": 55000,
       "price": 35000,
       "quantity": 5,
-      "image": "/public/images/53.webp"
+      "image": "/public/images/53.png"
     },
     {
       "id": 54,
@@ -619,7 +619,7 @@
       "del": 35000,
       "price": 25000,
       "quantity": 10,
-      "image": "/public/images/54.webp"
+      "image": "/public/images/54.png"
     },
     {
       "id": 55,
@@ -631,7 +631,7 @@
       "del": 35000,
       "price": 15000,
       "quantity": 10,
-      "image": "/public/images/55.webp"
+      "image": "/public/images/55.png"
     },
     {
       "id": 56,
@@ -643,7 +643,7 @@
       "del": 85000,
       "price": 65000,
       "quantity": 5,
-      "image": "/public/images/56.webp"
+      "image": "/public/images/56.png"
     },
     {
       "id": 57,
@@ -655,7 +655,7 @@
       "del": 95000,
       "price": 65000,
       "quantity": 15,
-      "image": "/public/images/57.webp"
+      "image": "/public/images/57.png"
     },
     {
       "id": 59,
@@ -667,7 +667,7 @@
       "del": 450000,
       "price": 350000,
       "quantity": 10,
-      "image": "/public/images/59.webp"
+      "image": "/public/images/59.png"
     }
   ],
   "comments": [
