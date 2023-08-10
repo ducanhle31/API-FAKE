@@ -4,15 +4,14 @@
   "plant_name": "xcxc apple",
   "plant_price": 123,
   "description": "âsasas",
-  "img_url": "https://th.bing.com/th/id/R.76acc0bbf1d70fd8ef144e2cc25871a3?rik=EfsAVKXy7kMKJw&riu=http%3a%2f%2filarge.lisimg.com%2fimage%2f9296664%2f740full-alina-cristall.jpg&ehk=bTFRGPvhtWZS2Mb%2fTZPgCl%2b%2fKBwxY7eziZFg7m8%2bd5k%3d&risl=&pid=ImgRaw&r=0",
+  "img_url": "/public/images/1.webp",
   "created_at": "azxcc"},
 {
   "id": 5,
   "plant_category": "aloe",
   "plant_name": "kjk applevvvn",
   "plant_price": 8123,
-  "description": "âsasas et getrer rter",
-  "img_url": "https://th.bing.com/th/id/R.76acc0bbf1d70fd8ef144e2cc25871a3?rik=EfsAVKXy7kMKJw&riu=http%3a%2f%2filarge.lisimg.com%2fimage%2f9296664%2f740full-alina-cristall.jpg&ehk=bTFRGPvhtWZS2Mb%2fTZPgCl%2b%2fKBwxY7eziZFg7m8%2bd5k%3d&risl=&pid=ImgRaw&r=0",
+  "description": "/public/images/3.webp",
   "created_at": "azxcc"
 },
 {
@@ -21,7 +20,7 @@
   "plant_name": "aqq rt rqcpple",
   "plant_price": 7123,
   "description": "âsasatỷyreeteeeeeees",
-  "img_url": "https://th.bing.com/th/id/R.76acc0bbf1d70fd8ef144e2cc25871a3?rik=EfsAVKXy7kMKJw&riu=http%3a%2f%2filarge.lisimg.com%2fimage%2f9296664%2f740full-alina-cristall.jpg&ehk=bTFRGPvhtWZS2Mb%2fTZPgCl%2b%2fKBwxY7eziZFg7m8%2bd5k%3d&risl=&pid=ImgRaw&r=0",
+  "img_url": "/public/images/2.webp",
   "created_at": "azxcc"
 },
 {
@@ -30,7 +29,7 @@
   "plant_name": "applqư r ư r EW qwe",
   "plant_price": 4123,
   "description": "âsasas",
-  "img_url": "https://th.bing.com/th/id/R.76acc0bbf1d70fd8ef144e2cc25871a3?rik=EfsAVKXy7kMKJw&riu=http%3a%2f%2filarge.lisimg.com%2fimage%2f9296664%2f740full-alina-cristall.jpg&ehk=bTFRGPvhtWZS2Mb%2fTZPgCl%2b%2fKBwxY7eziZFg7m8%2bd5k%3d&risl=&pid=ImgRaw&r=0",
+  "img_url": "/public/images/5.webp",
   "created_at": "azxcc"
 },
 {
@@ -39,7 +38,7 @@
   "plant_name": "appls sdsd e",
   "plant_price": 1243,
   "description": "âsasas",
-  "img_url": "https://th.bing.com/th/id/R.76acc0bbf1d70fd8ef144e2cc25871a3?rik=EfsAVKXy7kMKJw&riu=http%3a%2f%2filarge.lisimg.com%2fimage%2f9296664%2f740full-alina-cristall.jpg&ehk=bTFRGPvhtWZS2Mb%2fTZPgCl%2b%2fKBwxY7eziZFg7m8%2bd5k%3d&risl=&pid=ImgRaw&r=0",
+  "img_url": "/public/images/3.webp",
   "created_at": "azxcc"
 },{
   "id": 7,
@@ -47,7 +46,7 @@
   "plant_name": "applqư r ư r EW qwe",
   "plant_price": 4123,
   "description": "âsasas",
-  "img_url": "https://th.bing.com/th/id/R.76acc0bbf1d70fd8ef144e2cc25871a3?rik=EfsAVKXy7kMKJw&riu=http%3a%2f%2filarge.lisimg.com%2fimage%2f9296664%2f740full-alina-cristall.jpg&ehk=bTFRGPvhtWZS2Mb%2fTZPgCl%2b%2fKBwxY7eziZFg7m8%2bd5k%3d&risl=&pid=ImgRaw&r=0",
+  "img_url": "/public/images/2.webp",
   "created_at": "azxcc"
 },{
   "id": 8,
@@ -55,7 +54,7 @@
   "plant_name": "apDVSDFVSDVplqư r ư r EW qwe",
   "plant_price": 41243,
   "description": "âsaS Ssas",
-  "img_url": "https://th.bing.com/th/id/R.76acc0bbf1d70fd8ef144e2cc25871a3?rik=EfsAVKXy7kMKJw&riu=http%3a%2f%2filarge.lisimg.com%2fimage%2f9296664%2f740full-alina-cristall.jpg&ehk=bTFRGPvhtWZS2Mb%2fTZPgCl%2b%2fKBwxY7eziZFg7m8%2bd5k%3d&risl=&pid=ImgRaw&r=0",
+  "img_url": "/public/images/4.web",
   "created_at": "azxcc"
 }
 ],
