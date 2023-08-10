@@ -1,4 +1,49 @@
-{"products": [
+{"products":[
+  {  "id": 1,
+  "plant_category": "cactus",
+  "plant_name": "apple",
+  "plant_price": 123,
+  "description": "âsasas",
+  "img_url": "/public/images/1.webp",
+  "created_at": "azxcc"},
+{
+  "id": 5,
+  "plant_category": "aloe",
+  "plant_name": "applevvvn",
+  "plant_price": 123,
+  "description": "âsasas",
+  "img_url": "/public/images/1.webp",
+  "created_at": "azxcc"
+},
+{
+  "id": 2,
+  "plant_category": "rose",
+  "plant_name": "aqqqpple",
+  "plant_price": 123,
+  "description": "âsasas",
+  "img_url": "/public/images/1.webp",
+  "created_at": "azxcc"
+},
+{
+  "id": 3,
+  "plant_category": "orchids",
+  "plant_name": "applqưqwe",
+  "plant_price": 123,
+  "description": "âsasas",
+  "img_url": "/public/images/1.webp",
+  "created_at": "azxcc"
+},
+{
+  "id": 4,
+  "plant_category": "xerophytes",
+  "plant_name": "applssdsde",
+  "plant_price": 123,
+  "description": "âsasas",
+  "img_url": "/public/images/1.webp",
+  "created_at": "azxcc"
+}
+],
+  "pro": [
     {
       "id": 1,
       "title": "Red Stone Ring",
