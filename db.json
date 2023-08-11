@@ -1,5 +1,54 @@
+{"products":[
+  {
+    "id": 1,
+  "category": "Categor",
+  "name":"abc",
+  "price": 123,
+  "isFeatured": "true",
+  "size": 12,
+  "color": "red",
+  "images": "/public/images/1.webp"
+},
 {
-  "products": [
+  "id": 2,
+  "category": "Categor",
+  "name": "abhc",
+  "price": 1231,
+  "isFeatured": "true",
+  "size": 12,
+  "color": "red",
+  "images": "/public/images/1.webp"
+},{
+  "id": 14,
+  "category": "Categor",
+  "name": "abc",
+  "price": 14123,
+  "isFeatured": "true",
+  "size": 112,
+  "color": "red",
+  "images": "/public/images/1.webp"
+},{
+  "id": 15,
+  "category": "Categor",
+  "name": "abc",
+  "price": 123,
+  "isFeatured": "true",
+  "size": 12,
+  "color": "black",
+  "images": "/public/images/1.webp"
+},{
+  "id": 17,
+  "category": "Categor",
+  "name": "abc",
+  "price": 123,
+  "isFeatured": "true",
+  "size": 12,
+  "color": "red",
+  "images": "/public/images/1.webp"
+}
+
+],
+  "produ": [
     {
       "id": 1,
       "title": "Red Stone Ring",
